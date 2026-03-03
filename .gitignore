@@ -1,0 +1,30 @@
+# Hugo build output
+public/
+resources/_gen/
+
+# Hugo lock file
+.hugo_build.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Local env files
+.env
+.env.local
+
+# Node modules (if using npm for assets)
+node_modules/
+
+# Draft content (optional - uncomment if you want to exclude)
+# content/posts/*.draft.md
